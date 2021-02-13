@@ -17,16 +17,16 @@ var score1=0,score2=0;
 var bg1,bg2;
 
 function preload(){
-astronautImg=loadImage("Images/astronaut.png");
+astronautImg=loadImage("Images/Astronaut.png");
 astronaut2Img=loadImage("Images/astronaut_new.png")
-backgroundImage=loadImage("Images/background.jpg");
-obstacle1=loadImage("Images/alien_1-removebg-preview.png")
-obstacle2=loadImage("Images/alien_2-removebg-preview.png")
-obstacle3=loadImage("Images/alien_3.png")
-obstacle4=loadImage("Images/asteroid.png");
-obstacle5=loadImage("Images/asteroid_2.png");
+backgroundImage=loadImage("Images/Background.jpg");
+obstacle1=loadImage("Images/Alien_1-removebg-preview.png")
+obstacle2=loadImage("Images/Alien_2-removebg-preview.png")
+obstacle3=loadImage("Images/Alien_3.png")
+obstacle4=loadImage("Images/Asteroid.png");
+obstacle5=loadImage("Images/Asteroid_2.png");
 bulletImg=loadImage("Images/Fireball.png");
-bullet2Img=loadImage("Images/Fireball-2.png");
+bullet2Img=loadImage("Images/fireball-2.png");
 gameOverImg=loadImage("Images/game over.png");
 blastImg=loadImage("Images/boom.png");
 introBG=loadImage("Images/bg1.jpg");
